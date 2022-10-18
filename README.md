@@ -7,7 +7,7 @@
 
 后端：JAVA开发语言，SpringBoot框架，MySql数据库
 
-前端：html页面，Thymelaf框架
+前端：html页面，Thymeleaf框架
 
 实现的功能
 
