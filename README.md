@@ -1,7 +1,7 @@
 # SpringBoot-YinXingTravel
 基于SpingBoot框架的旅游网设计
 
-演示视频链接：https://live.csdn.net/v/246004
+演示视频链接：https://www.bilibili.com/video/BV1ge4y1J78b/
 
 使用的技术
 
